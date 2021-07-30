@@ -271,6 +271,10 @@ textarea:focus {
   color: #fff;
 }
 
+.get-consultation__btn-send {
+  max-width: 120px;
+}
+
 .modal {
   display: none;
   width: 62%;
@@ -668,6 +672,10 @@ textarea:focus {
 
 .button_form:hover {
   background-color: #8bc540;
+}
+
+.button_form-send {
+  max-width: 143px;
 }
 
 .modal__btn {
